@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:C77DFF&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Técnico%20em%20Informática&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:C77DFF&height=200&section=header&text=Olá,%20eu%20sou%20[Matheus Alcaide]&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Técnico%20em%20Informática&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
@@ -6,13 +6,7 @@
 
 📍 Castilho, SP
 
-</div>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=750&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+Inform%C3%A1tica+pelo+IFMS;Python+%7C+JavaScript+%7C+Web;Em+busca+de+uma+oportunidade+em+tecnologia)](https://git.io/typing-svg)
-
-📍 Castilho, SP
 
 </div>
 ---
