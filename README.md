@@ -39,7 +39,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**Nome do projeto 1**](link-do-repositorio) | Descrição curta do que ele faz | Python |
-| [**Mercado Alcaide**](link-do-repositorio) | Sistema web de PDV e gestão para mercadinho: caixa, cadastro de produtos, controle de estoque, painel administrativo e histórico financeiro. | HTML, CSS e JavaScript |
+| [**Mercado Alcaide**](https://github.com/MatheusAlcaide/Mercado-Alcaide) | Sistema web de PDV e gestão para mercadinho: caixa, cadastro de produtos, controle de estoque, painel administrativo e histórico financeiro. | HTML, CSS e JavaScript |
 
 ---
 
