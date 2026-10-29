@@ -43,16 +43,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatheusAlcaide&show_icons=true&bg_color=10002B&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=7B2CBF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlcaide&layout=compact&bg_color=10002B&title_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF" height="170" />
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -62,5 +52,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-5A189A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991930530)
 
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:5A189A&height=100&section=footer" width="100%" />
