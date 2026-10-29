@@ -59,7 +59,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![E-mail](https://img.shields.io/badge/E--mail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![E-mail](https://img.shields.io/badge/E--mail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuszegs13@exemplo.com)
 
 </div>
 
