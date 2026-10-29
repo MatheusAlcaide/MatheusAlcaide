@@ -60,7 +60,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alcaide-076aa4349/)
 [![E-mail](https://img.shields.io/badge/E--mail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuszegs13@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-5A189A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991930537)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5A189A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518991930530)
 
 </div>
 
